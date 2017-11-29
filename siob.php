@@ -7,7 +7,7 @@
  * Version:      0.9.6.1
  * Author:       Kostas Krevatas
  * Author URI:   http://kostas.krevatas.net
- * Author Email: k_krevatas@Kostas Krevatas.gr
+ * Author Email: 297mxq@gmail.com
  * Text Domain:  search-in-other-blogs
  * Domain Path:  /languages
  *
