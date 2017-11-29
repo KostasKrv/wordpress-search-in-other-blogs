@@ -1,0 +1,87 @@
+.siob-block ul {
+    list-style: none!important;
+    margin-left: 0!important;
+    padding-left: 0!important;
+}
+.siob-block li {
+    border-bottom: 1px solid #eee;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    list-style-type: none;
+}
+
+.siob_widget .td-block-title a{
+    color: #106637;
+}
+
+.siob_widget .td-block-title a small:hover{
+    text-decoration: underline !important;
+}
+
+.siob_widget .td-block-title a small{
+    color: #111;
+    font-size: 11px;
+    margin-left: 10px;
+    font-weight: 300;
+}
+
+.siob-block a {
+    display: inline!important;
+    text-decoration: none;
+}
+.siob-block h3 {
+    background: none!important;
+    clear: none;
+    margin-bottom: 0!important;
+    margin-top: 0!important;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.5em;
+}
+.siob-thumb {
+    margin: 2px 10px 2px 0;
+}
+.siob-summary {
+    font-size: 12px;
+}
+.siob-time {
+    color: #bbb;
+    font-size: 11px;
+}
+.siob-comment {
+    color: #bbb;
+    font-size: 11px;
+    padding-left: 5px;
+}
+.siob_widget .footer-link{
+    text-align: right;
+    width: 100%;
+    float: left;
+    font-size: 12px;
+}
+
+.siob-alignleft {
+    display: inline;
+    float: left;
+}
+.siob-alignright {
+    display: inline;
+    float: right;
+}
+.siob-aligncenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.siob-clearfix:before,
+.siob-clearfix:after {
+    content: "";
+    display: table !important;
+}
+.siob-clearfix:after {
+    clear: both;
+}
+.siob-clearfix {
+    zoom: 1;
+}
+

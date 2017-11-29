@@ -1,0 +1,40 @@
+a.siob-img {
+    display: inline-block !important;
+    margin-bottom: 0;
+}
+.siob-block:hover{
+
+}
+.siob-block h3 {
+    clear: none;
+    margin-bottom: 0!important;
+    margin-top: 0px!important;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.5em;
+    background: #f7f7f7 !important;
+    z-index: 1;
+    padding: 5px 9px;
+    color: #FFF;
+    border-top: solid 4px #79b93e;
+}
+
+.siob-block h3 a {
+    color: #111;}
+
+.siob-block h3 a:hover {   
+color: #79b93e !important;
+}
+
+.siob-block li {
+    border-bottom: 0 !important;
+    margin-bottom: 10px;
+    padding-bottom: 0 !important;
+    list-style-type: none;
+    box-shadow: 1px 1px 15px -8px black;
+    line-height: 0;
+}
+
+.siob-thumb {
+    margin: 0;
+}
